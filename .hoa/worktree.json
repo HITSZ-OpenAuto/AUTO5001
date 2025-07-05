@@ -1,0 +1,102 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 2657,
+    "time": 1751724734,
+    "hash": "7ef5685ad9a03f62e403219b7c99adfe6271eca7"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1718130614,
+    "hash": "362e6d92e0ce99cc9ccea57dc99469d2ed4f272a"
+  },
+  "README.md": {
+    "size": 2409,
+    "time": 1737293821,
+    "hash": "6e03a91517aa7bb552057b3a2771617934c9354e"
+  },
+  "assignments/2023/20221124 Linear-HW3.pdf": {
+    "size": 154576,
+    "time": 1737293821,
+    "hash": "6e03a91517aa7bb552057b3a2771617934c9354e"
+  },
+  "assignments/2023/20230912 Linear-HW1.pdf": {
+    "size": 148019,
+    "time": 1737293821,
+    "hash": "6e03a91517aa7bb552057b3a2771617934c9354e"
+  },
+  "assignments/2023/20230919 Linear-HW2.pdf": {
+    "size": 127432,
+    "time": 1737293821,
+    "hash": "6e03a91517aa7bb552057b3a2771617934c9354e"
+  },
+  "assignments/2023/20231021 Linear-HW4.pdf": {
+    "size": 134385,
+    "time": 1737293821,
+    "hash": "6e03a91517aa7bb552057b3a2771617934c9354e"
+  },
+  "assignments/2023/20231024 Linear-HW5.pdf": {
+    "size": 234638,
+    "time": 1737293821,
+    "hash": "6e03a91517aa7bb552057b3a2771617934c9354e"
+  },
+  "assignments/2023/20231030 Linear-HW6.pdf": {
+    "size": 194996,
+    "time": 1737293821,
+    "hash": "6e03a91517aa7bb552057b3a2771617934c9354e"
+  },
+  "assignments/2023/2023_线性系统作业1-4答案.pdf": {
+    "size": 10159936,
+    "time": 1737293821,
+    "hash": "6e03a91517aa7bb552057b3a2771617934c9354e"
+  },
+  "assignments/2023/2023_线控hw5答案.pdf": {
+    "size": 3939087,
+    "time": 1737293821,
+    "hash": "6e03a91517aa7bb552057b3a2771617934c9354e"
+  },
+  "assignments/2023/2023_线控hw6答案.pdf": {
+    "size": 1482083,
+    "time": 1737293821,
+    "hash": "6e03a91517aa7bb552057b3a2771617934c9354e"
+  },
+  "assignments/2024/HW6.docx": {
+    "size": 70876,
+    "time": 1737293821,
+    "hash": "6e03a91517aa7bb552057b3a2771617934c9354e"
+  },
+  "assignments/2024/README.txt": {
+    "size": 82,
+    "time": 1737293821,
+    "hash": "6e03a91517aa7bb552057b3a2771617934c9354e"
+  },
+  "assignments/README.md": {
+    "size": 39,
+    "time": 1718130614,
+    "hash": "362e6d92e0ce99cc9ccea57dc99469d2ed4f272a"
+  },
+  "exams/2024秋 线性系统理论 试题回忆.doc": {
+    "size": 278528,
+    "time": 1737293821,
+    "hash": "6e03a91517aa7bb552057b3a2771617934c9354e"
+  },
+  "exams/2024秋 线性系统理论 试题回忆.pdf": {
+    "size": 177844,
+    "time": 1737293821,
+    "hash": "6e03a91517aa7bb552057b3a2771617934c9354e"
+  },
+  "exams/README.md": {
+    "size": 54,
+    "time": 1718130614,
+    "hash": "362e6d92e0ce99cc9ccea57dc99469d2ed4f272a"
+  },
+  "notes/README.md": {
+    "size": 42,
+    "time": 1718130614,
+    "hash": "362e6d92e0ce99cc9ccea57dc99469d2ed4f272a"
+  },
+  "tag.txt": {
+    "size": 95,
+    "time": 1737293821,
+    "hash": "6e03a91517aa7bb552057b3a2771617934c9354e"
+  }
+}
