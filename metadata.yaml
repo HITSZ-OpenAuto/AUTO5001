@@ -1,0 +1,84 @@
+ID: "AUTO5001"
+SimilarID: []
+Name: "线性系统理论"
+CourseProperty:
+  Major:
+    - Year: "2022_2023"
+      Name: ["自动化"]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大四"
+      Semester: "秋"
+  CourseType: "限选"
+  CourseID: "AUTO5001"
+  CourseName: "线性系统理论"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: "/blog/线性系统理论选课指南"
+    Desc: "课程内容涵盖线性多输入多输出系统理论，适合有相关基础的学生。"
+    Name: "线性系统理论"
+    Ids: ["AUTO5001", "AUTO3001", "AUTO4001"]
+  GradeComposition:
+    - Name: "作业"
+      Percentage: 40
+    - Name: "期末考试"
+      Percentage: 60
+  CourseHourComposition:
+    - Name: "授课"
+      Hour: 32
+      
+  Major:
+    - Year: "2023_2024"
+      Name: ["自动化"]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大四"
+      Semester: "秋"
+  CourseType: "限选"
+  CourseID: "AUTO5001"
+  CourseName: "线性系统理论"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: "/blog/线性系统理论选课指南"
+    Desc: "课程内容涵盖线性多输入多输出系统理论，适合有相关基础的学生。"
+    Name: "线性系统理论"
+    Ids: ["AUTO5001", "AUTO3001", "AUTO4001"]
+  GradeComposition:
+    - Name: "作业"
+      Percentage: 40
+    - Name: "期末考试"
+      Percentage: 60
+  CourseHourComposition:
+    - Name: "授课"
+      Hour: 32
+      
+  Major:
+    - Year: "2024_2025"
+      Name: ["自动化"]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大四"
+      Semester: "秋"
+  CourseType: "限选"
+  CourseID: "AUTO5001"
+  CourseName: "线性系统理论"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: "/blog/线性系统理论选课指南"
+    Desc: "课程内容涵盖线性多输入多输出系统理论，适合有相关基础的学生。"
+    Name: "线性系统理论"
+    Ids: ["AUTO5001", "AUTO3001", "AUTO4001"]
+  GradeComposition:
+    - Name: "作业"
+      Percentage: 40
+    - Name: "期末考试"
+      Percentage: 60
+  CourseHourComposition:
+    - Name: "授课"
+      Hour: 32
