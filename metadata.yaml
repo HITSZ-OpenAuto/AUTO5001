@@ -1,0 +1,57 @@
+ID: "AUTO5001"
+SimilarID: []
+Name: "线性系统理论"
+CourseProperty:
+  Major:
+    - Year: "2022_2023"
+      Name: [ "自动化" ]
+      Degree: "本"
+      GroupCourse:
+        Link: ""
+        Desc: "本研共选课"
+        Name: "自动控制理论"
+        Ids: ["AUTO3001B"]
+      GradeComposition:
+        - Name: "作业"
+          Percentage: 40
+        - Name: "期末考试"
+          Percentage: 60
+      CourseHourComposition:
+        - Name: "授课"
+          Hour: 32
+
+  Major:
+    - Year: "2023_2024"
+      Name: [ "自动化" ]
+      Degree: "本"
+      GroupCourse:
+        Link: ""
+        Desc: "本研共选课"
+        Name: "自动控制理论"
+        Ids: ["AUTO3001B"]
+      GradeComposition:
+        - Name: "作业"
+          Percentage: 40
+        - Name: "期末考试"
+          Percentage: 60
+      CourseHourComposition:
+        - Name: "授课"
+          Hour: 32
+
+  Major:
+    - Year: "2024_2025"
+      Name: [ "自动化" ]
+      Degree: "本"
+      GroupCourse:
+        Link: ""
+        Desc: "本研共选课"
+        Name: "自动控制理论"
+        Ids: ["AUTO3001B"]
+      GradeComposition:
+        - Name: "作业"
+          Percentage: 40
+        - Name: "期末考试"
+          Percentage: 60
+      CourseHourComposition:
+        - Name: "授课"
+          Hour: 32
