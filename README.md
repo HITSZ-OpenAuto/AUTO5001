@@ -1,23 +1,19 @@
-# 线性系统理论
+# AUTO5001 - 线性系统理论
 
-**课程代码:** AUTO5001
+![考查课](https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green)
+![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2-moccasin)
+![本研共选课](https://img.shields.io/badge/本研共选课-lightskyblue)
 
-## 授课教师
+![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
+![作业40%](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-40%25-wheat)
+![期末考试60%](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-60%25-wheat)
 
-### 胡靓
+第一节课说的占比是 30% + 70%，最后录入成绩时占比是 40% + 60%。
 
-授课风格：不考勤。讲解稍显混乱，有时比较糊涂。
+## 基本内容
 
-> 文 / [Oliver Wu]([https://www.github.com/OliverWu515](https://www.github.com/OliverWu515)), 2025.1
+本课程研究**线性多输入多输出（MIMO）系统理论**，主要包括：（根据括号标注查找对应课件）
 
-## 在线资源
-
-- [自动控制理论 B 课程页面]([https://hoa.moe/docs/junior-spring/auto3001b/](https://hoa.moe/docs/junior-spring/auto3001b/))
-  本课程多数讲解并不算清晰，可以去此处（资料下载-内网网盘）查找有关课件作为对照。
-
-## 课程评价
-
-本课程研究线性多输入多输出（MIMO）系统理论，主要包括：
 - （Lec 1）多输入多输出系统的数学描述、传递矩阵表示下线性系统的状态空间实现（可控可观标准型、Jordan 标准型）及最小实现
 - （Lec 2）矩阵多项式与矩阵函数，矩阵指数函数的计算及线性状态空间模型的求解
 - （Lec 3）线性自治系统的内稳定性（状态稳定性）和 MIMO 系统的外稳定性（输入-输出稳定性）
@@ -28,15 +24,19 @@
 - （Lec 8-9）最优控制（配方法、动态规划）
 - （Lec 10）Kalman 滤波
 
-> 文 / [Oliver Wu]([https://www.github.com/OliverWu515](https://www.github.com/OliverWu515)), 2025.1
+## 授课教师
 
-## 考试
+- 胡靓
+  - 授课风格：不考勤。讲解稍显混乱，有时比较糊涂。
 
-以作业题及其变种为主，比较容易。「最优控制」部分几乎没有对应作业，请关注上课推导。
-与本科期间学的状态空间分析与综合多有重复，但更注重证明。
+## 关于考试
 
-> 文 / [Oliver Wu]([https://www.github.com/OliverWu515](https://www.github.com/OliverWu515)), 2025.1
+以作业题及其变种为主，比较容易。「最优控制」部分几乎没有对应作业，请关注上课推导。与本科期间学的状态空间分析与综合多有重复，但更注重证明，不过多数讲解并不算清晰，可以去 [自动控制理论 B](https://hoa.moe/docs/junior-spring/auto3001b/) 页面（资料下载-内网网盘）查找有关课件作为对照。
 
-## 建议
+老师给出的作业 5、6 答案错误较多，本仓库下有订正后的版本。
+
+## 学习建议
 
 独立完成作业。
+
+> 文 / [Oliver Wu](https://www.github.com/OliverWu515), 2025.1
