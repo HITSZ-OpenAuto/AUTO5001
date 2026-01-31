@@ -1,22 +1,24 @@
-# 线性系统理论
+course_name = "线性系统理论"
+repo_type = "normal"
+course_code = "AUTO5001"
 
-**课程代码:** AUTO5001
+# 授课教师 (Lecturers)
+[[lecturers]]
+name = "胡靓"
 
-## 授课教师
+  [[lecturers.reviews]]
+  content = """授课风格：不考勤。讲解稍显混乱，有时比较糊涂。"""
+  author = { name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2025-01-01" }
 
-### 胡靓
+# 网络资源（电子书、网课等）
+[[online_resources]]
+title = "自动控制理论 B 课程页面"
+url = "https://hoa.moe/docs/junior-spring/auto3001b/"
+description = "本课程多数讲解并不算清晰，可以去此处（资料下载-内网网盘）查找有关课件作为对照。"
 
-授课风格：不考勤。讲解稍显混乱，有时比较糊涂。
-
-> 文 / [Oliver Wu]([https://www.github.com/OliverWu515](https://www.github.com/OliverWu515)), 2025.1
-
-## 在线资源
-
-- [自动控制理论 B 课程页面]([https://hoa.moe/docs/junior-spring/auto3001b/](https://hoa.moe/docs/junior-spring/auto3001b/))
-  本课程多数讲解并不算清晰，可以去此处（资料下载-内网网盘）查找有关课件作为对照。
-
-## 课程评价
-
+# 核心课程评价区块
+[[course]]
+content = """
 本课程研究线性多输入多输出（MIMO）系统理论，主要包括：
 - （Lec 1）多输入多输出系统的数学描述、传递矩阵表示下线性系统的状态空间实现（可控可观标准型、Jordan 标准型）及最小实现
 - （Lec 2）矩阵多项式与矩阵函数，矩阵指数函数的计算及线性状态空间模型的求解
@@ -27,16 +29,16 @@
 - （Lec 7）MIMO 系统的控制器综合（2）：Luenberger 观测器的设计、分离原理和基于观测器的状态反馈设计。
 - （Lec 8-9）最优控制（配方法、动态规划）
 - （Lec 10）Kalman 滤波
+"""
+author = { name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2025-01-01" }
 
-> 文 / [Oliver Wu]([https://www.github.com/OliverWu515](https://www.github.com/OliverWu515)), 2025.1
-
-## 考试
-
+[[exam]]
+content = """
 以作业题及其变种为主，比较容易。「最优控制」部分几乎没有对应作业，请关注上课推导。
 与本科期间学的状态空间分析与综合多有重复，但更注重证明。
+"""
+author = { name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2025-01-01" }
 
-> 文 / [Oliver Wu]([https://www.github.com/OliverWu515](https://www.github.com/OliverWu515)), 2025.1
-
-## 建议
-
-独立完成作业。
+[[advice]]
+content = """独立完成作业。"""
+author = { name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2025-01-01" }
