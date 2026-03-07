@@ -1,4 +1,6 @@
 # AUTO5001 - 线性系统理论
+<!-- TOML-META: repo_type="normal" -->
+<!-- TOML-BADGES: source="grades_summary" -->
 
 ![成绩构成](https://img.shields.io/badge/成绩构成-gold)
 ![作业40%](https://img.shields.io/badge/作业-40%25-wheat)
@@ -10,14 +12,21 @@
 ## 授课教师
 
 - 胡靓
+  <!-- TOML-ITEM: id="review-胡靓-1" -->
   - 授课风格：不考勤。讲解稍显混乱，有时比较糊涂。
     > 文 / [Oliver Wu](https://www.github.com/OliverWu515)，2025-01
 
 ## 在线资源
+<!-- TOML-SECTION: title="在线资源" -->
+
+<!-- TOML-ITEM: id="item-在线资源-1" -->
 
 - [自动控制理论 B 课程页面](https://hoa.moe/docs/junior-spring/auto3001b/)：本课程多数讲解并不算清晰，可以去此处（资料下载-内网网盘）查找有关课件作为对照。
 
 ## 课程内容
+<!-- TOML-SECTION: title="课程内容" -->
+
+<!-- TOML-ITEM: id="item-课程内容-1" -->
 
 本课程研究线性多输入多输出（MIMO）系统理论，主要包括：
 
@@ -32,10 +41,16 @@
 - （Lec 10）Kalman 滤波
 
 ## 关于考试
+<!-- TOML-SECTION: title="关于考试" -->
+
+<!-- TOML-ITEM: id="item-关于考试-1" -->
 
 以作业题及其变种为主，比较容易。「最优控制」部分几乎没有对应作业，请关注上课推导。
 与本科期间学的状态空间分析与综合多有重复，但更注重证明。
 
 ## 学习建议
+<!-- TOML-SECTION: title="学习建议" -->
+
+<!-- TOML-ITEM: id="item-学习建议-1" -->
 
 独立完成作业。
