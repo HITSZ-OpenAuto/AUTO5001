@@ -1,19 +1,19 @@
 course_name = "线性系统理论"
-repo_type = "normal"
 course_code = "AUTO5001"
-
+repo_type = "normal"
 description = """
 第一节课说的占比是 30% + 70%，最后录入成绩时占比是 40% + 60%。
 老师给出的作业 5、6 答案错误较多，本仓库下有订正后的版本。
 """
 
-[[lecturers]]
+[lecturers]
+
+[[lecturers.items]]
 name = "胡靓"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "授课风格：不考勤。讲解稍显混乱，有时比较糊涂。"
 author = { name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2025-01" }
-
 
 [[sections]]
 title = "在线资源"
