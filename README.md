@@ -1,10 +1,5 @@
 # AUTO5001 - 线性系统理论
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业40%](https://img.shields.io/badge/作业-40%25-wheat)
-![期末考试60%](https://img.shields.io/badge/期末考试-60%25-wheat)
 
 第一节课说的占比是 30% + 70%，最后录入成绩时占比是 40% + 60%。
 老师给出的作业 5、6 答案错误较多，本仓库下有订正后的版本。
